@@ -2,7 +2,7 @@
 <h3 align="center">A passionate wed fullstack developer from Colombia</h3>
 
 - 🔭 I’m currently working on CampusLands **Campus**
-- 👨‍💻 All of my projects are available at [https://github.com/amedpinzon17?tab=projects](https://github.com/amedpinzon17?tab=projects)
+
 
  <div align="center">
   <a href="#"><img src="https://media4.giphy.com/media/RtdRhc7TxBxB0YAsK6/giphy.gif" alt="dino-run-ending" border="0" width="200px"></a>
